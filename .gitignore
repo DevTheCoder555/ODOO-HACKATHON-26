@@ -30,3 +30,8 @@ htmlcov/
 Thumbs.db
 .vscode/
 .idea/
+
+# Netlify
+.netlify/
+
+
